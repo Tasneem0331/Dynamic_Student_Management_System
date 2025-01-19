@@ -1,0 +1,21 @@
+form{
+width:30%;
+background-color: #e3e6f3;
+padding: 25px;
+margin-top: 150px;
+border-radius: 25px;
+}
+.btn-primary{
+    margin-left: 30%;
+    width: 30%;
+    background-color: #088178;
+}
+
+.btn-primary:hover{
+    background-color: #1fbbb0;
+}
+.alert{
+    width: 40%;
+    margin-left: 32%;
+
+}
